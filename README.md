@@ -11,6 +11,7 @@ en utilisant un Application Load Balancer (ALB)
 - AWS CLI configuré avec les permissions appropriées
 - `kubectl` installé et configuré
 - Terraform installé
+- Domain name valide 
 
 ## Vue d'ensemble de l'infrastructure
 
