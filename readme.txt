@@ -1,4 +1,4 @@
-readme
+INFO
 
 lancer l'infra complete
 mettre en place les fichiers pour l'apk nginx dont deployment.yaml |  ingress.yaml | service.yaml
@@ -40,7 +40,7 @@ http://a9a33b3763e0a43d794a06ff130de753-1510809823.eu-west-1.elb.amazonaws.com
 
                                         kubectl get nodes
 
-Drainer un Nœud :
+ Drainer un Nœud :
                                         kubectl drain <node-name> --ignore-daemonsets --delete-local-data
 
 
